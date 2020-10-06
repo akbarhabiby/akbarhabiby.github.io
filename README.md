@@ -9,4 +9,4 @@ My portofolio site hosted by Github
 - [Iklan Layanan Masyarakat (FIKSI)](./certificate/MuhammadAkbarHabibyKhalid_IklanLayananMasyarakat_2019.pdf)
 - [Short Movie (FLS2N)](./certificate/MuhammadAkbarHabibyKhalid_FLS2N_2019.pdf)
 - [Network Systems Administration (LKS)](./certificate/MuhammadAkbarHabibyKhalid_LKS_2019.pdf)
-- [WordPress](./certificate/MuhammadAkbarHabibyKhalid_WordPress.pdf)
+- [WordPress (Course)](./certificate/MuhammadAkbarHabibyKhalid_WordPress.pdf)
