@@ -8,4 +8,6 @@ My portofolio site hosted by Github
 
 ## Certificate
 - [AbangNone Buku](./certificate/MuhammadAkbarHabibyKhalid_AbangNoneBuku.pdf)
+- [Short Movie (FLS2N)](./certificate/MuhammadAkbarHabibyKhalid_FLS2N_2019.pdf)
+- [Network Systems Administration (LKS)](./certificate/MuhammadAkbarHabibyKhalid_LKS_2019.pdf)
 - [WordPress](./certificate/MuhammadAkbarHabibyKhalid_WordPress.pdf)
