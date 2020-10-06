@@ -7,4 +7,5 @@ My portofolio site hosted by Github
 [Check My Score!](https://hacktiv8-phase-calculator.akbarhabiby.repl.run/)
 
 ## Certificate
+- [AbangNone Buku](./certificate/MuhammadAkbarHabibyKhalid_AbangNoneBuku.pdf)
 - [WordPress](./certificate/MuhammadAkbarHabibyKhalid_WordPress.pdf)
