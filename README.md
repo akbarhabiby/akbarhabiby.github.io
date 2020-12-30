@@ -1,8 +1,5 @@
 # akbarhabiby.github.io
 
-## About This Site
-My portofolio site hosted by Github
-
 ## Portofolios
 - [TraveRent](https://github.com/TraveRent)
 - [Entertainme](https://github.com/akbarhabiby/entertain)
