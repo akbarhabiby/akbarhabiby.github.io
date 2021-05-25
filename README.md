@@ -1,5 +1,8 @@
 # akbarhabiby.github.io
 
+## Personal website
+- [My Personal website](https://akbarhabiby.net)
+
 ## Resume
 - [Here is my resume](./documents/Resume-Muhammad_Akbar_Habiby_Khalid.pdf)
 
